@@ -6,5 +6,8 @@ h1{
 img{
     font-size: 20px;
     font-weight: 30px;
-    
+
+}
+p{
+    text-align: right;
 }
